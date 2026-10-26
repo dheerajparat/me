@@ -1,0 +1,32 @@
+# PARAT — Dheeraj Parat
+
+> Official portfolio for Dheeraj Parat, known online as Parat. Developer and electronics enthusiast exploring software, Linux, embedded systems, networking, and cybersecurity through practical projects.
+
+Canonical website: https://parat.space/
+
+## About
+
+Dheeraj Parat holds a Diploma in Electronics & Communication Engineering from Government Polytechnic Aurangabad, Bihar. His experience includes SMT engineering exposure at Lumax and familiarity with NXT II SMT equipment. He learns by building across software, Linux, backend engineering, Android, electronics, and embedded systems.
+
+Engineering philosophy: Understand the system. Build the solution. Test the result. Improve continuously.
+
+## Selected projects
+
+- Academic Async — Android academic calendar concept with Kotlin, Jetpack Compose, scheduling, and offline reminders. Status: building.
+- Roomie Split — shared-expense application backend using FastAPI and PostgreSQL, designed to integrate with a Flutter client. Repository: https://github.com/dheerajparat/roomie_split_backend
+- DevBox — proposed project workspace for local and remote development. Status: in development.
+- ESP32 OLED Experiments — experiments with ESP32, MicroPython, SSD1306 displays, and serial debugging.
+- UPI QR Display — ESP32 display prototype concept.
+- Browser & Utility Bench — ongoing browser and utility experiments.
+
+Project status descriptions reflect the portfolio and should not be interpreted as claims of completed production software unless explicitly stated.
+
+## Public profiles
+
+- GitHub: https://github.com/dheerajparat
+- X: https://x.com/dheerajparat
+- YouTube: https://youtube.com/@creationwithdheeraj
+
+## Contact
+
+Use the contact links on https://parat.space/.
